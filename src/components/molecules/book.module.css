@@ -1,0 +1,10 @@
+.bookBox{
+    width:14px;
+    height: 14px;
+    font-size: 0.5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
